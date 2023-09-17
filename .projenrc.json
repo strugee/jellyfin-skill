@@ -1,6 +1,6 @@
 {
   "type": "@mikejgray/ovos-skill-projen.OVOSSkillProject",
-  "name": "skill-jellyfin",
+  "name": "jellyfin-skill",
   "author": "Garrett B",
   "authorHandle": "ghostbuster84",
   "repositoryUrl": "https://github.com/LostLightProjects/jellyfin-skill",
