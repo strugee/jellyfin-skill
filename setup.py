@@ -5,7 +5,7 @@ from os import walk, path
 BASEDIR = path.abspath(path.dirname(__file__))
 URL = "https://github.com/LostLightProjects/jellyfin-skill"
 SKILL_CLAZZ = "Jellyfin"  # needs to match __init__.py class name
-PYPI_NAME = "jellyfin-skill"  # pip install PYPI_NAME
+PYPI_NAME = "skill-jellyfin"  # pip install PYPI_NAME
 
 # below derived from github url to ensure standard skill_id
 SKILL_AUTHOR, SKILL_NAME = URL.split(".com/")[-1].split("/")
